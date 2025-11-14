@@ -13,4 +13,5 @@ A simple E-commerce backend built using **Spring Boot** and **MongoDB**.
 - Java 17  
 - Spring Boot  
 - MongoDB  
-- Maven  
+- Maven
+- Microservices
