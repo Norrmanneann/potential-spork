@@ -1,6 +1,6 @@
 # potential-spork
 # E-Commerce Backend 🛍️
-A simple e-commerce backend built using **Spring Boot** and **MongoDB**.
+A simple E-commerce backend built using **Spring Boot** and **MongoDB**.
 
 ## 🚀 Features
 - Inventory service
